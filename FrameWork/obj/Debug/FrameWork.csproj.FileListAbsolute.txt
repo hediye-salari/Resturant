@@ -1,0 +1,30 @@
+C:\Users\hp\source\repos\Resturant\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Users\hp\source\repos\Resturant\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\hp\source\repos\Resturant\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\hp\source\repos\Resturant\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Resturant\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Resturant\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\hp\source\repos\Resturant\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\FrameWork\obj\Debug\FrameWork.csproj.CopyComplete
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\FrameWork.dll.config
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\FrameWork.dll
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\FrameWork.pdb
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\EntityFramework.dll
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\EntityFramework.xml
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\FrameWork\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\FrameWork\obj\Debug\FrameWork.csproj.CopyComplete
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\FrameWork\obj\Debug\FrameWork.dll
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\FrameWork\obj\Debug\FrameWork.pdb

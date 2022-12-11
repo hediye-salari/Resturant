@@ -1,0 +1,43 @@
+C:\Users\hp\source\repos\Resturant\DomainModel\bin\Debug\DomainModel.dll.config
+C:\Users\hp\source\repos\Resturant\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\hp\source\repos\Resturant\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\hp\source\repos\Resturant\DomainModel\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\Resturant\DomainModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\Resturant\DomainModel\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\Resturant\DomainModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\Resturant\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Resturant\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Resturant\DomainModel\obj\Debug\DomainModel.csproj.CopyComplete
+C:\Users\hp\source\repos\Resturant\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\hp\source\repos\Resturant\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\hp\source\repos\Resturant\DomainModel\obj\Debug\DomainModel.Migrations.m1.resources
+C:\Users\hp\source\repos\Resturant\DomainModel\obj\Debug\DomainModel.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\DomainModel.dll.config
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.Migrations.m1.resources
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.csproj.CopyComplete
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\hp\source\repos\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.Migrations._2.resources
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\DomainModel.dll.config
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\DomainModel.dll
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\DomainModel.pdb
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\EntityFramework.dll
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\EntityFramework.xml
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.Migrations.m1.resources
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.Migrations._2.resources
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.csproj.GenerateResource.cache
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.csproj.CopyComplete
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.dll
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.pdb
+D:\c#advance\1400-07-18csharp elementary\8\Resturant\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
